@@ -5,7 +5,7 @@ Hello, i'm Pedro Arthur, a brazilian computer scientist enthusiast.
 
 Now i'm enrolled in a Academic League, UFRJ Analytica, trying to develop my skills in Machine Learning and Data Science 
   
-        Currently studying:   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  /> Pytorch and NLTK
+        Currently studying:  Pytorch and NLTK
         
         University : Universidade Federal do Rio de Janeiro
         
