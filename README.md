@@ -32,8 +32,8 @@ Now i'm enrolled in a Academic League, UFRJ Analytica, trying to develop my skil
 </div>
 
  <div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="kaggle logo" />
+ Once in a while a like to do some challenges at Kaggle
 </div>
 
 Contact me:
