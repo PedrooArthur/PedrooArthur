@@ -11,6 +11,7 @@ Now i'm enrolled in a Academic League, UFRJ Analytica, trying to develop my skil
         Currently doing a Bootcamp : Data Science Bootcamp by Visagio
         
 
+</br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
