@@ -34,7 +34,7 @@
 
 </br>
  <div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" width = 30 height = 30 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" width = 40 height = 40 />
  Once in a while a like to do some challenges at Kaggle
 </div>
 </br>
