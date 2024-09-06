@@ -30,7 +30,7 @@ Now i'm enrolled in a Academic League, UFRJ Analytica, trying to develop my skil
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
+</br>
  <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" />
  Once in a while a like to do some challenges at Kaggle
