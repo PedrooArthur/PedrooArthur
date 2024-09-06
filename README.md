@@ -40,7 +40,7 @@
 
 </br>
 
-Once in a while a like to do some challenges at Kaggle
+:computer: Once in a while a like to do some challenges at Kaggle
     
 </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
