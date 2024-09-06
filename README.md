@@ -34,9 +34,10 @@
 
 ## Competitions
 </br>
- <div allign = "center"">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" width = 40 height = 40 /> 
+ <div allign = "center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" /> 
 </div>
+
 </br>
 
     Once in a while a like to do some challenges at Kaggle
