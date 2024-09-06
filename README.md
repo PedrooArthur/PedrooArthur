@@ -7,13 +7,13 @@ Now i'm enrolled in a Academic League, UFRJ Analytica, trying to develop my skil
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  /> Once in a while i like to solve some kaggle challenges to help consolidate my learning process
   
-Currently studying: Pytorch and NLTK
-
-University : Universidade Federal do Rio de Janeiro
-
-Currently doing a Bootcamp : Data Science Bootcamp by Visagio
-
-Contact me : pedrooarthursg@gmail.com
+        Currently studying: Pytorch and NLTK
+        
+        University : Universidade Federal do Rio de Janeiro
+        
+        Currently doing a Bootcamp : Data Science Bootcamp by Visagio
+        
+        Contact me : pedrooarthursg@gmail.com
 
 <img src="https://avatars.githubusercontent.com/u/64556218?s=280&v=4" width="30" height="30">
 
