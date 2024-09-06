@@ -1,9 +1,10 @@
 # Pedro Arthur Santos Gama
 
 Hello, i'm Pedro Arthur, a computer scientist enthusiast.
-![Analytca](https://avatars.githubusercontent.com/u/64556218?s=280&v=4)
+
+<img src="https://avatars.githubusercontent.com/u/64556218?s=280&v=4" width="30" height="30">
+
 Now i'm enrolled in a Academic League, UFRJ Analytica, trying to develop my skills in Machine Learning and Data Science 
-<img src="https://avatars.githubusercontent.com/u/64556218?s=280&v=4" width="400" height="300">
 Currently studying: Pytorch and NLTK
 
 University : Universidade Federal do Rio de Janeiro
