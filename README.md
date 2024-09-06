@@ -1,5 +1,5 @@
 # Pedro Arthur Santos Gama
-### About me
+# About me
 
 :brazil: Hello, i'm Pedro Arthur, a brazilian computer scientist enthusiast.
 
