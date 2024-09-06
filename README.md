@@ -34,13 +34,13 @@
 
 ## Competitions
 </br>
- <div allign = "center">
+ <div align = "center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" /> 
 </div>
 
 </br>
 
-    Once in a while a like to do some challenges at Kaggle
+Once in a while a like to do some challenges at Kaggle
     
 </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
