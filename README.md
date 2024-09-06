@@ -40,7 +40,7 @@
 
 </br>
 
-:computer: Once in a while a like to do some challenges at Kaggle
+     Once in a while a like to do some challenges at Kaggle
 
 ## Contact Me
 </br>
